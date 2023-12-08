@@ -3,7 +3,7 @@
 #include "Delay.h"
 #include "OLED.h"
 #include "MyDMA.h"
- 
+  
 uint8_t DataA[] = {0x01, 0x02, 0x03, 0x04};
 uint8_t DataB[] = {0, 0, 0, 0};
 
